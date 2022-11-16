@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>Is.It.The.End@apple.com</string>
+	<key>purchaseDate</key>
+	<date>2018-03-03T03:03:03Z</date>
+	<key>appleWatchEnabled</key>
+	<false/>
+	<key>artistId</key>
+	<integer>898228813</integer>
+	<key>artistName</key>
+	<string>Telegram Messenger LLP</string>
+	<key>bundleDisplayName</key>
+	<string>Telegram X</string>
+	<key>bundleShortVersionString</key>
+	<string>5.2</string>
+	<key>bundleVersion</key>
+	<string>290</string>
+	<key>copyright</key>
+	<string>© Telegram Messenger LLP</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Social Networking</string>
+	<key>genreId</key>
+	<integer>6005</integer>
+	<key>itemId</key>
+	<integer>898228810</integer>
+	<key>itemName</key>
+	<string>Telegram X</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Telegram Messenger LLP</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.GAMBLING_CONTESTS and Unrestricted Web Access</string>
+		<key>label</key>
+		<string>17+</string>
+		<key>rank</key>
+		<integer>600</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2014-07-23T19:18:55Z</string>
+	<key>s</key>
+	<integer>143517</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a956.phobos.apple.com/us/r30/Purple114/v4/54/d7/6b/54d76b4f-fdfd-7060-4a98-c1759855e41a/icon114x114.jpeg</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>9</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>org.telegram.TelegramHD</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>830035841</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>825367457</integer>
+		<integer>825487096</integer>
+		<integer>825798718</integer>
+		<integer>825847666</integer>
+		<integer>826323261</integer>
+		<integer>827463590</integer>
+		<integer>828444174</integer>
+		<integer>828522965</integer>
+		<integer>828625665</integer>
+		<integer>828649794</integer>
+		<integer>828692368</integer>
+		<integer>830035841</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>96569807</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
+
